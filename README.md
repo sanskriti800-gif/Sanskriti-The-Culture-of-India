@@ -1,6 +1,6 @@
 # Sanskriti: The Culture Of India 
 
-### This is basically based on IIndia's languages, religions, dance, music, architecture, food and customs differ from place to place.This application is to explore and get guidance in our Sanskriti, promote india’s cultural legacy.
+### This is basically based on India's languages, religions, dance, music, architecture, food and customs differ from place to place.This application is to explore and get guidance in our Sanskriti, promote india’s cultural legacy.
 
 ### This is build up with the use of  ReactJs, Rapid API, Material UI 5, Google Map API
 
